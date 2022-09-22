@@ -5,7 +5,7 @@ price = {'coffee': 3500, 'latte': 4000, 'smoothie': 4500, 'tea': 3000}
 order = []
 sum = 0
 
-
+myname="jr Park"
 # def center(toplevel):
 #     toplevel.update_idletasks()
 #     w = toplevel.winfo_screenwidth()
